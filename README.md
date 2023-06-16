@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! My name is Kyle and I am interested in tech and biology.
 
 <!--
 **kyle1iao/kyle1iao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
