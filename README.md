@@ -1,4 +1,4 @@
-Hi! My name is Kyle, and I am studying biology and computer science at Penn.
+Hi! My name is Kyle, and I study biology and computer science at the University of Pennsylvania.
 
 <!--
 **kyle1iao/kyle1iao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
